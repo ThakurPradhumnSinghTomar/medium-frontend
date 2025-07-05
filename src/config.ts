@@ -1,0 +1,1 @@
+export const backendUrl = "https://backend.pradhumntomar18.workers.dev"
